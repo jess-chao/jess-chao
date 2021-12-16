@@ -2,7 +2,7 @@
 - 👀 I’m interested in the latest front-end technologies, iOS development, and web dev frameworks!
 - 🌱 I’m currently learning Swift UI!
 - 💞️ I’m looking to collaborate on making shiny things! 
-- 📫 How to reach me: jessicayuchao@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/jessica-chao-62940b92/
 
 <!---
 jess-chao/jess-chao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
